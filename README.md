@@ -1,0 +1,2 @@
+# nlp_relations_extract
+基于pytorch的关系抽取
